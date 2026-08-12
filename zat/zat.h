@@ -1,3 +1,8 @@
+/*
+ * Copyright 2026 Jiapeng Li <main@jiapeng.me>
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 #ifndef __ZAT_H__
 #define __ZAT_H__
 #include <stdarg.h>

@@ -1,3 +1,8 @@
+/*
+ * Copyright 2026 Jiapeng Li <main@jiapeng.me>
+ * SPDX-License-Identifier: Apache-2.0
+ */
+
 #include "zat.h"
 
 #include <limits.h>

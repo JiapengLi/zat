@@ -1,3 +1,6 @@
+# Copyright 2026 Jiapeng Li <main@jiapeng.me>
+# SPDX-License-Identifier: Apache-2.0
+
 CC := gcc
 CPPFLAGS ?= -Izat
 CFLAGS ?= -std=c99 -O2 -Wall -Wextra -Werror -pedantic -Wconversion -Wshadow -Wstrict-prototypes

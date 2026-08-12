@@ -124,3 +124,7 @@ make test
 ```
 
 All build products are placed in `_build`. The human-review test report is written to `_build/test.log`.
+
+## License
+
+Copyright 2026 Jiapeng Li <main@jiapeng.me>. Licensed under the Apache License, Version 2.0. See [LICENSE](LICENSE).
